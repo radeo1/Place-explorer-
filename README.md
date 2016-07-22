@@ -1,10 +1,9 @@
 
-# Details about coding project:
+Details about coding project:
 
-App Title:
-# Place Explorer
-
-# Main Features:
+App Title:  Place Explorer
+ 
+Main Features:
 
 1. Responsive features:
 	Auto resizing for desktop (min-width: 769px), pad (max-width: 768px), mobile (max-width: 600px)
