@@ -1,13 +1,4 @@
 
-# Candidate Info:
-
-Rachana Deolikar
-LinkedIn profile: https://www.linkedin.com/in/rachana-deolikar-303a7522
-Moblie: 408-650-9532
-E-mail: rachana.r.deolikar@gmail.com
-
-____________________________________________________________________________________________________________
-
 # Software Engineer, Marketing at Zenefits - Option 2:
 
 # Requirements:
