@@ -1,14 +1,8 @@
 
-# Software Engineer, Marketing at Zenefits - Option 2:
-
-# Requirements:
-Create a web app (desktop or mobile) that provides a query box and a search button and then calls the Places Library for Google Maps (https://developers.google.com/maps/documentation/javascript/places). Format the results to give a good user experience.
-____________________________________________________________________________________________________________
-
 # Details about coding project:
 
 App Title:
-## Zenefits Place Explorer
+# Place Explorer
 
 # Main Features:
 
@@ -28,4 +22,4 @@ App Title:
 7. Reset browser CSS for consistency in look across various browsers.
  
 
-## The user just needs to run the index.html file for viewing the webpage for the coding challenge.
+# The user just needs to run the index.html file for viewing the webpage for the coding challenge.
