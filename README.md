@@ -21,4 +21,4 @@ Main Features:
 7. Reset browser CSS for consistency in look across various browsers.
  
 
-# The user just needs to run the index.html file for viewing the webpage for the coding challenge.
+The user just needs to run the index.html file for viewing the webpage for the coding challenge.
